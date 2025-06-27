@@ -1,4 +1,4 @@
-const API_KEY  = "8e237677a55a50c3b4b15ce3c19d925c"
+const API_KEY  = "YOUR_APIKEY"
 
 let page = 1;
 
